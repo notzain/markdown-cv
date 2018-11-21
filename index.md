@@ -26,7 +26,7 @@ My interests currently lie in Systems Engineering. I enjoy writing software for 
 
 ### Skills
 
-#### Languages
+#### Programming Languages
 - C
 - C++
 - CMake
@@ -58,3 +58,8 @@ __Internship - TNO__, The Hague
     - Write a serializer for the ZigBee protocol
     - Write a parser for the ZigBee protocol
 - Create a wireless mesh network with ZigBee for embedded devices
+
+## Languagse
+
+- Dutch (native)
+- English
