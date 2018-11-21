@@ -2,90 +2,59 @@
 layout: cv
 title: Isaac Newtons's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Zain Ahmad
+Student - Network & Systems Engineering
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="https://github.com/notzain">https://github.com/notzain</a> 
+| <a href="zain.x.ahmad@gmail.com">zain.x.ahmad@gmail.com</a> 
+| <a href="+31 06 365 95 004">+31 06 365 95 004</a>
 </div>
 
 
-## Currently
+## About Me
 
-Standing on the shoulders of giants
+I'm currently a student majoring in Network & Systems engineering.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Software engineering, Embedded programming, knowledge in networking.
 
+### Interests
 
-### Research interests
+My interests currently lie in Systems Engineering. I enjoy writing software for devices that are limited in some way. (CPU power, limited ram, etc.)
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+### Skills
 
+#### Languages
+- C
+- C++
+- CMake
+- Python
+
+#### Other
+- CI with Appveyor and Travis
+- UML
+- SCRUM
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2015-present`
+__The Hague University of Applied Sciences, Delft__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+## Notable projects
 
-- Sizar
+- CHIP8 Emulator (https://github.com/notzain/chip8_emulator) - A CHIP8 emulator made with C++ and SFML
+- ZigBee packet viewr (https://github.com/notzain/QtZigbeeHelper) - A Qt GUI to sniff and view ZigBee packets
 
-`1667 - death`
-__Trinity College, Cambridge__
+## Work Experience
 
-- Fellow
+`2017-2018`
+__Internship - TNO__, The Hague
 
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+- Research project on wireless communication protocols
+- Researching ZigBee protocol
+- Embedded programming on ATMEGA2560
+    - Write a serializer for the ZigBee protocol
+    - Write a parser for the ZigBee protocol
+- Create a wireless mesh network with ZigBee for embedded devices
