@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Zain Ahmad CV
 ---
 # Zain Ahmad
 Student - Network & Systems Engineering
