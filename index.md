@@ -26,13 +26,13 @@ My interests currently lie in Systems Engineering. I enjoy writing software for 
 
 ### Skills
 
-#### Programming Languages
+Programming Languages
 - C
 - C++
 - CMake
 - Python
 
-#### Other
+Other
 - CI with Appveyor and Travis
 - UML
 - SCRUM
