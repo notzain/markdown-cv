@@ -46,7 +46,7 @@ __The Hague University of Applied Sciences__, Delft
 ## Notable projects
 
 - CHIP8 Emulator (https://github.com/notzain/chip8_emulator) - A CHIP8 emulator made with C++ and SFML
-- ZigBee packet viewr (https://github.com/notzain/QtZigbeeHelper) - A Qt GUI to sniff and view ZigBee packets
+- ZigBee packet viewer (https://github.com/notzain/QtZigbeeHelper) - A Qt GUI to sniff and view ZigBee packets
 
 ## Work Experience
 
@@ -54,11 +54,16 @@ __The Hague University of Applied Sciences__, Delft
 __Internship - TNO__, The Hague
 
 * Research project on wireless communication protocols
-* Researching ZigBee protocol
+    * Research the internal workings of the ZigBee protocol
+    * Dive into the protocol specifications
+    * Analyze and rationalize packet data
 * Embedded programming on ATMEGA2560
     * Write a serializer for the ZigBee protocol
     * Write a parser for the ZigBee protocol
 * Create a wireless mesh network with ZigBee for embedded devices
+    * Write software to create a "smart" lighting network
+    * Unit test hardware and software
+    * Benchmark performance
 
 ## Languagse
 
