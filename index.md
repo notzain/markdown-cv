@@ -9,7 +9,6 @@ Student - Network & Systems Engineering
 <a href="https://github.com/notzain">https://github.com/notzain</a> 
 | <a href="mailto:zain.x.ahmad@gmail.com">zain.x.ahmad@gmail.com</a> 
 | <a href="tel:+310636595004">+31 06 365 95 004</a>
-| <a href="https://notzain.github.io/markdown-cv">Online CV: https://notzain.github.io/markdown-cv</a> 
 </div>
 
 
